@@ -1,13 +1,14 @@
 {
   "name": "mopebot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mope's Bot! (Mainly for music, but we'll see where it goes)",
   "type": "module",
   "main": "index.js",
+  "repository": "https://github.com/AnthonyGiaquinto/MopeBot",
+  "author": "AnthonyGiaquinto <anthony.giaquinto1@gmail.com>",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.26.0"
