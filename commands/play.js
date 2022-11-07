@@ -30,6 +30,7 @@ export default {
         highWaterMark: 1 << 30,
         dlChunkSize: 0,
       },
+      bufferingTimeout: 1,
     });
 
     // Verify VC connection
